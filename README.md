@@ -7,7 +7,7 @@ This project demonstrates a complete data engineering pipeline that extracts Red
 ## Architecture Overview
 
 ```
-Reddit API → Apache Airflow → AWS S3 → AWS Glue Visual Jobs → AWS Glue Crawler → Queryable Database
+Reddit API → Apache Airflow → AWS S3 → AWS Glue Visual Jobs → AWS Glue Crawler → Amazon Redshift
 ```
 
 ## How It Works
